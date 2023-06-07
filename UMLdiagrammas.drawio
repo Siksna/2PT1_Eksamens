@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" modified="2023-06-07T16:42:23.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="MPzlNWu1iuMZRmkSdcsc" version="21.3.7" type="device">
+  <diagram name="Page-1" id="2eoWKdK1u0_-MyD_fxD5">
+    <mxGraphModel dx="2626" dy="1001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gDdEkOJ7wqpKF4ZCGXuV-1" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Pecnosacījuma testa koda UML diagrammas&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="154" y="13" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gDdEkOJ7wqpKF4ZCGXuV-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;2.1. Izplāno un vizualizē savu projektu pirms tā izstrādes uzsākšanas&lt;br&gt;&amp;nbsp;izstrādājot divas no mācību procesa laikā apskatītajām UML diagrammām &lt;br&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;(Klašu, Pakotņu, Objektu, Komponentu, Izvietojuma, Saliktās struktūras, Aktivitāšu,&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Sekvenču, Lietojumgadījumu, Stāvokļu, Komunikācijas, Laika).&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;&lt;br&gt;Lietotājs atbild uz katru jautājumu 1 reizi, nesaņemot tūlītēju atbildes novērtējumu. Beigās paziņo, cik jautājumi atbildēti pareizi &lt;br&gt;un izdrukā jautājumu sarakstu, uz kuriem atbildēts nepareizi.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;Tests satur 10 jautājumus (&lt;/span&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;izstrāde notiek programmēšanas valodā C++&lt;/span&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;), katram jautājumam 4 atbilžu varianti, no kuriem&lt;br&gt;pareizi ir 2 vai 3 atbilžu varianti.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;Izstrādāt mācību materiālu un elektronisko testu par tēmu &lt;/span&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;&quot;Cikls ar pēcnosacījumu programmēšanas valodā C++&quot;&lt;/span&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;.&lt;/span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;p style=&quot;&quot;&gt;&lt;/p&gt;&lt;span style=&quot;&quot; id=&quot;docs-internal-guid-f3b31d3f-7fff-7fa1-d7c9-b5822b966a4c&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="8" y="70" width="810" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="gDdEkOJ7wqpKF4ZCGXuV-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://skolo.lv/pluginfile.php/76433729/mod_resource/content/0/Activity.png;" parent="1" vertex="1">
+          <mxGeometry x="320" y="258.05" width="650" height="299" as="geometry" />
+        </mxCell>
+        <mxCell id="EPJfToF9s4aTxL4ATbzc-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://skolo.lv/pluginfile.php/76433735/mod_resource/content/0/Class.jpg;" parent="1" vertex="1">
+          <mxGeometry x="-150" y="258.05" width="451" height="315.36" as="geometry" />
+        </mxCell>
+        <mxCell id="EPJfToF9s4aTxL4ATbzc-3" value="main" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="620" width="490" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="EPJfToF9s4aTxL4ATbzc-4" value="+ Atbilde: int []&lt;br&gt;+ Jautajums: String []&lt;br&gt;+ KludasSk: int&lt;br&gt;+ PareizasAtbildesSk: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="EPJfToF9s4aTxL4ATbzc-3" vertex="1">
+          <mxGeometry y="26" width="490" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="EPJfToF9s4aTxL4ATbzc-5" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="EPJfToF9s4aTxL4ATbzc-3" vertex="1">
+          <mxGeometry y="140" width="490" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="EPJfToF9s4aTxL4ATbzc-6" value="- Rezultats(Atbilde: int [], Jautajums: String [], KludasSk: int, PareizasAtbildesSk: int): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="EPJfToF9s4aTxL4ATbzc-3" vertex="1">
+          <mxGeometry y="148" width="490" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="EPJfToF9s4aTxL4ATbzc-15" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="1211" y="557.05" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EPJfToF9s4aTxL4ATbzc-16" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EPJfToF9s4aTxL4ATbzc-15" target="EPJfToF9s4aTxL4ATbzc-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1226" y="630" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPJfToF9s4aTxL4ATbzc-17" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="830" y="730" width="870" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="EPJfToF9s4aTxL4ATbzc-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.455;entryY=0.19;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="EPJfToF9s4aTxL4ATbzc-19" target="EPJfToF9s4aTxL4ATbzc-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPJfToF9s4aTxL4ATbzc-19" value="PecnosacījumaTests main.cpp &lt;br&gt;Startēšana" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1166" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
