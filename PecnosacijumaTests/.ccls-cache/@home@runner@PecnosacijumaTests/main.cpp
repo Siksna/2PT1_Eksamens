@@ -9,9 +9,8 @@ void Rezultats(string Jautajums[],int NepareizasAtbildesSk, int PareizasAtbildes
     cout<<"Pareizo atbilžu skaits: "<<PareizasAtbildesSk;
     cout<<"Nepareizo atbilžu saits: "<<NepareizasAtbildesSk;
    
-    for(int i=0;i<NepareizasAtbildes[y].length;i++){
-        cout<<Jautajums[NepareizasAtbildes[i]];
-        cout<<PareizasAtbildes[NepareizasAtbildes[i]];
+    for(int i=0;i<NepareizasAtbildes[y].size();i++){
+        cout<<Jautajums[NepareizasAtbildes[i]]<<"\n"<<PareizasAtbildes[NepareizasAtbildes[i]];
     }
 }
 int main() {
@@ -46,6 +45,6 @@ cout<<"Kontroles tests par pēcnosacījumiem (Atbildes jāvada pēc cipara lielu
         x++;
         system("clear");
     }while(x<10);
-    Rezultats(Jautajums[],NepareizasAtbildesSk,PareizasAtbildesSk,NepareizasAtbildes[y],y);
+    Rezultats(Jautajums,NepareizasAtbildesSk,PareizasAtbildesSk,NepareizasAtbildes,y);
     
 }
